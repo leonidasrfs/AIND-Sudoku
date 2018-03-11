@@ -1,4 +1,4 @@
-" comment
+" this is the AIND-Sudoku solver solution file
 from utils import *
 
 
